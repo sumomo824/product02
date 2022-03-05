@@ -1,0 +1,36 @@
+@media(max-width:900px){
+    /* --- */
+    .more{
+        font-size:20px;
+    }
+    h1{
+        font-size:30px;
+    }
+    /* - トップ - */
+    .top-view{
+        height:60px;
+    }
+    .nav a{
+        line-height:40px;
+        font-size:20px;
+        padding: 0 10px;
+    }
+    /* - プロダクト - */
+    .main-view{
+        border:#4d4d4d 2px solid;
+        border-top-right-radius: 40px;
+        border-bottom-left-radius: 40px;
+    }
+    /* - コンタクト - */
+    .img06{
+        width:40%;
+    }
+    .txt06{
+        width:60%;
+    }
+    .hide06{
+        font-size:18px;
+    }
+    .icon06 i{
+        font-size:100px;
+    }
